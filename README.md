@@ -1,2 +1,3 @@
-# games.github.io
-ゲーム用のgit hub pages
+# readme.md
+* ゲーム用のgit hub pages
+* frontend作成中のためとりあえずmdで。
